@@ -1,0 +1,29 @@
+h1{
+    color:black
+}
+legend{
+    border: solid 1px;
+    border-radius: 15px;
+    background-color: rgb(66, 67, 66);
+}
+h2{
+    color:rgb(246, 246, 252);
+}
+fieldset{
+    background-color:rgb(168, 236, 166);
+}
+ul{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font: size 16px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+}
+body{
+    background-color: rgb(243, 222, 146);
+}
+#demo{ 
+    color:rgb(18, 148, 48);
+}
+#boton {
+    color: red
+}
